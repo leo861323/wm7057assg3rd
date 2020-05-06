@@ -1,0 +1,31 @@
+.main1{
+    display: flex;
+    padding: 10px;
+    background-color: brown;
+    width: 1555px;
+    height: 40px;
+    justify-content: space-between;
+}
+.social, .donate, .massage{
+    width: 400px;
+    text-align: center;
+    color: white;
+    
+    }
+.massage{
+    width: 600px;
+}
+
+.jv{
+    width: 1570px;
+    height: 400px;
+    text-align: center;
+    border: 1px red solid;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+.li{
+    display: inline;
+}
